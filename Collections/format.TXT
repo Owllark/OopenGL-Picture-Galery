@@ -1,0 +1,6 @@
+name of collection
+number of pictures N
+N times:
+"imagename".png
+Name of the picture
+Description('@' symbol at the end)
